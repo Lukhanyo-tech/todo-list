@@ -10,7 +10,6 @@ click==8.1.7
 cryptography==3.4.8
 dbus-python==1.2.18
 distro==1.7.0
-distro-info===1.1build1
 exceptiongroup==1.2.2
 Flask==3.0.3
 google-api-core==2.21.0
